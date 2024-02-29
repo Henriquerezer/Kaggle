@@ -8,4 +8,4 @@ O uso de dados sintéticos para competições do Playground nos permite encontra
 
 # Actual Notebook 
 
-https://www.kaggle.com/henriquerezermosqur/binary-classification-with-a-bank-churn/edit
+https://www.kaggle.com/code/henriquerezermosqur/binary-classification-with-a-bank-churn/notebook#df_train
